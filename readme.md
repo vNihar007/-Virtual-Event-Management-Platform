@@ -1,4 +1,22 @@
 
+# VIRTUAL EVENT MANAGEMT PLATFORM 
+
+A **RESTful API** designed to efficiently manage **user registration, authentication, and event access**, catering to both **event organizers and attendees**. This API enables seamless **user login, event browsing, and management**, ensuring a smooth and engaging experience for all participants. 🚀
+
+## Installation
+
+Clone the repo :
+
+```bash
+  git clone https://github.com/vNihar007/-Virtual-Event-Management-Platform.git
+```
+Installing Dependencies :
+
+```bash
+  npm install
+  nodemon run app.js || npm run dev 
+ ```
+    
 ## API Endpoints
 
 
