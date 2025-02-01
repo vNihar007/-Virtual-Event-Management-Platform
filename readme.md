@@ -1,5 +1,5 @@
 
-# VIRTUAL EVENT MANAGEMT PLATFORM 
+# VIRTUAL EVENT MANAGEMET PLATFORM 
 
 A **RESTful API** designed to efficiently manage **user registration, authentication, and event access**, catering to both **event organizers and attendees**. This API enables seamless **user login, event browsing, and management**, ensuring a smooth and engaging experience for all participants. 🚀
 
